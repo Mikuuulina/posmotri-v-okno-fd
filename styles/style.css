@@ -276,12 +276,6 @@ ol {
   background-color: #545050;
 }
 
-/*Позиционирование прелоадеров*/
-
-.preloader {
-  position: absolute;
-}
-
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
